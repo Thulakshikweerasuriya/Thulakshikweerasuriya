@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thulakshikweerasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="thulakshikweerasuriya" /> </p>
 
 ---
-- 🌱 I’m currently learning **Python, Jaclang , Java , PHP**
+- 🌱 I’m currently learning **Python, Java , PHP**
 
 - 💬 Ask me about **PHP , html , Web development**
 
