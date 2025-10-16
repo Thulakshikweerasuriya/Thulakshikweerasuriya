@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Thulakshi Weerasuriya</h1>
-<h3 align="center">An Undergraduate of University of Moratuwa | SE Intern</h3>
+<h3 align="center">An Undergraduate of University of Moratuwa</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thulakshikweerasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="thulakshikweerasuriya" /> </p>
 
